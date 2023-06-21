@@ -438,5 +438,23 @@
       "name": "Wrapped OZO",
       "symbol": "WOZO"
     }
+    },
+  "1116": {
+    "name": "CORE Blockchain",
+    "rpc": "https://rpc.coredao.org/",
+    "chainId": 1116,
+    "explorer": "https://scan.coredao.org",
+    "color": "#343a3f",
+    "multicall": "0xf66Cd2f8755a21d3c8683a10269F795c0532Dd58",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "CORE",
+      "symbol": "CORE"
+    },
+    "wrappedToken": {
+      "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+      "name": "Wrapped CORE",
+      "symbol": "WCORE"
+    }
   }
 }
