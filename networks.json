@@ -438,7 +438,7 @@
       "name": "Wrapped OZO",
       "symbol": "WOZO"
     }
-    },
+  },
   "1116": {
     "name": "CORE Blockchain",
     "rpc": "https://rpc.coredao.org/",
